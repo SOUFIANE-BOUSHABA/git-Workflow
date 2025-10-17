@@ -7,5 +7,7 @@ public class App {
         System.out.println("Args count: " + args.length);
          String version = "0.3.0-SNAPSHOT"; 
 +        System.out.println("Version: " + version);
+        System.out.println("Hello v1.1.0");
+
     }
 }
